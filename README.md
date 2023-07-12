@@ -6,8 +6,8 @@
 </p>
 
 
-<br>
-### Stack:
+## My Skill Set  
+<table><tr><td valign="top" width="100%">
 	
 ### Frontend  
 <div align="left">  
