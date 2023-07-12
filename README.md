@@ -7,7 +7,7 @@
 
 
 <br>
-### My Skill Set  
+### Stack:
 	
 ### Frontend  
 <div align="left">  
