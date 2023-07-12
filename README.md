@@ -8,6 +8,7 @@
 
 ## My Skill Set  
 <table><tr><td valign="top" width="100%">
+</td></tr></table>  
 	
 ### Frontend  
 <div align="left">  
@@ -32,7 +33,7 @@
 </td><td valign="top" width="33%">
 
 <br>
-</td></tr></table>  
+
 
 <br/>  
 
